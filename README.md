@@ -3,10 +3,10 @@ Real-time NiLabVIEW-based safety alert system using environmental sensors with a
 ## Screenshots
 
 ### LabVIEW Block Diagram
-![Block Diagram](screenshot(332).jpg)
+![Block Diagram](screenshot (332).jpg)
 
 ### Front Panel
-![Front Panel](screenshot(330).jpg)
+![Front Panel](screenshot (330).jpg)
 
 ### block panel
 ![block panel](isas1.jpg)
